@@ -19,10 +19,10 @@
       "reminder": false
     },
     {
-      "id": 4,
-      "text": "Pay Bills",
-      "day": "Feb 29th at 3:00pm",
-      "reminder": true
+      "text": "Work On React Project",
+      "day": "Feb 26th at 8:30pm",
+      "reminder": true,
+      "id": 4
     }
   ]
 }
