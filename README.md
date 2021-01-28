@@ -2,6 +2,11 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+# Sample Test Video
+
+<a href="https://github.com/bomercakmak/task-manager-react/blob/master/gif/Task-Manager.gif"><img src="./gif/Task-Manager.gif" title="Search-Users-GitHub-REST-API-gif"></a>
+
+
 ## Available Scripts
 
 In the project directory, you can run:
