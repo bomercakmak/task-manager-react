@@ -2,9 +2,10 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-# Sample Test Video
-
+# To test the application
 [Try It Out Now!](https://static-task-manager-react.netlify.app/)
+
+# Introduction video of my application
 
 <a href="https://static-task-manager-react.netlify.app/"><img src="./gif/Task-Manager.gif" title="Search-Users-GitHub-REST-API-gif"></a>
 
